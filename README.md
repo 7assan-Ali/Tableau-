@@ -1,23 +1,26 @@
-# Tableau Sales Dashboards
+# Tableau Sales Analysis & Dashboards
 
-A collection of Tableau workbooks created to practice sales analysis, visualization, and dashboard design.
+A collection of Tableau workbooks created to practice **sales analysis, interactive visualization, and dashboard design**.
 
 ## 📊 Workbooks
 
-- `DataForSales.twb` — sales analysis workbook
-- `SalesDashBoard.twb` — sales dashboard workbook
-- `Test_1.twb` — additional Tableau practice workbook
+| Workbook | Purpose |
+|---|---|
+| `DataForSales.twb` | Sales data analysis and visualization |
+| `SalesDashBoard.twb` | Interactive sales dashboard |
+| `Test_1.twb` | Tableau practice workbook |
 
-## 🎯 Focus Areas
+## 🎯 Analysis Areas
 
-- Sales performance analysis
-- Interactive data visualization
-- Dashboard design
-- Business-oriented reporting
+- Sales performance
+- Trends and comparisons
+- Product / category analysis
+- Interactive dashboards
+- Business-oriented visual storytelling
 
 ## 🛠️ Technology
 
-- Tableau
+**Tableau**
 
 ## 👨‍💻 Author
 
